@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @k1mo000
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+k1mo000/k1mo000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+![image](https://github.com/k1mo000/k1mo000/assets/147247936/4e09818d-9da7-4223-b8f8-b3906944c25e)
+![image](https://github.com/k1mo000/k1mo000/assets/147247936/dac59b0e-009c-45e3-a28a-46ff46e48fc4)
+![image](https://github.com/k1mo000/k1mo000/assets/147247936/10e4a9a9-df15-43b0-89b7-94d929b73591)
